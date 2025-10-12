@@ -38,6 +38,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=CHIRANJEEVBHATT&theme=onedark)
 
 ---
+## 🦖 Holophins Board
+[![An image of @chiranjeev-bhatt's Holopin badges](https://holopin.me/CHIRANJEEVBHATT)](https://holopin.io/@CHIRANJEEVBHATT)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeev-bhatt-89678430a)
