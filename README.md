@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Chiranjeev Bhatt  
+🚀 A passionate Full Stack Developer from India  
 
-<!--
-**CHIRANJEEVBHATT/CHIRANJEEVBHATT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats:
+![Chiranjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiranjeev-bhatt&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=chiranjeev-bhatt&theme=onedark)
+
+## 🔥 Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com/?user=chiranjeev-bhatt&theme=radical)
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
