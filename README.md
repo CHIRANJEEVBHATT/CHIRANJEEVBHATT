@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Stats
 
-![Chiranjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiranjeev-bhatt&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=chiranjeev-bhatt&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeev-bhatt&layout=compact&theme=radical)
+![Chiranjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIRANJEEVBHATT&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=CHIRANJEEVBHATT&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHIRANJEEVBHATT&layout=compact&theme=radical)
 
 ---
 
