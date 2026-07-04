@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chiranjeev Bhatt
+# Hi , I'm Chiranjeev Bhatt
 
 <h3 align="center">
 Software Developer | Full Stack Developer | AI & ML Enthusiast
