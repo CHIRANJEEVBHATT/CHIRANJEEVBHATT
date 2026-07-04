@@ -14,7 +14,7 @@ Currently pursuing B.Tech in Computer Science at SRM Institute of Science and Te
 # 🚀 About Me
 
 - 🎓 B.Tech CSE @ SRM Institute of Science & Technology (2024–2028)
-- ⭐ CGPA: **9.43 / 10.0 (Top 5%)**
+- ⭐ CGPA: **9.43 / 10.0 **
 - 💼 Software Development Intern @ Dev-Evolpers
 - 💻 Full Stack Developer (MERN + Next.js)
 - 🤖 Exploring AI, Machine Learning & NLP
