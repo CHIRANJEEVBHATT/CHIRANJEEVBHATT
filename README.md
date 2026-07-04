@@ -118,19 +118,6 @@ A complete Bus Reservation Platform built using React, Flask, MySQL and JWT Auth
 
 ---
 
-## 💰 SmartSpend
-
-AI-powered Personal Finance Tracker using FastAPI, PostgreSQL and Machine Learning.
-
-### Features
-
-- Expense Categorization
-- Random Forest Model
-- NLP Pipeline
-- Budget Dashboard
-- Spending Analytics
-
----
 
 # 🏆 Achievements
 
